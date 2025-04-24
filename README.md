@@ -6,9 +6,7 @@ Hello! I built this **Social Media Analytics** project using **MySQL Workbench 8
 
 ## 🧠 Project Overview
 
-**I designed a relational database that mimics the structure of a social media platform**![Screenshot (155)](https://github.com/user-attachments/assets/85d5e4fa-58c1-4f78-8f8a-3aa6294728ee)
-![Screenshot (155)](https://github.com/user-attachments/assets/626738cc-4562-4530-8a63-d6b90441760e)
-![Screenshot (155)](https://github.com/user-attachments/assets/83bc97d1-9e2e-43cb-8b91-f18445ae1528)
+**I designed a relational database that mimics the structure of a social media platform**
 , complete with:
 
 - Users and their profiles
